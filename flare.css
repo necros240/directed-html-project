@@ -1,0 +1,44 @@
+html {
+    font-size: 25px
+}
+body {
+    background-color: black;
+}
+th, td, caption{
+    color: black;
+    background-color:gold;
+}
+section {
+    color: gold;
+}
+
+header,header{
+    background-color: black;
+}
+nav {
+    text-align: center;
+}
+h1, h2, h3 {
+    color: black;
+}
+h1, h2, h3 {
+    background-color: gold;
+}
+th, td {
+    font-family: fantasy;
+}
+dt {
+    font-weight: 900;
+}
+dd {
+    font-style: italic;
+}
+a {
+    color: gold;
+}
+a :hover{
+    color: green;
+}
+figcaption {
+    color: gold;
+}

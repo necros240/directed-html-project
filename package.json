@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "plugin": "^0.3.3",
+    "prettier": "^3.2.5"
+  }
+}
